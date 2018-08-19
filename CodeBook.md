@@ -22,4 +22,12 @@ Appropriately labels the data set with descriptive variable names: feat_id, feat
 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+Variables:
 
+Each variable is the mean value of all measurements recorded for that variable for each subject and activity. The values are bounded between -1 and 1.
+
+Subject ID: 1-30
+
+Activity: Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing, Laying
+
+Measurement Variables can be seen at the beginning of the tidy_averige.txt file in this repository.

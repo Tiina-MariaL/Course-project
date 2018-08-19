@@ -1,6 +1,6 @@
 # Course-project
 Course project
-This repository contains my files for Coursera's "Getting and Cleaning Data" course's Week 4 assignment. It contains the following files:
+repository contains the following files:
 
 R Script: run_analysis.R
 

@@ -1,8 +1,6 @@
 CodeBook
 
-Variables
-
-Features
+run_analysis.R manipulates data in 5 steps.
 
 Measurements have been made with accelerometer and gyroscope.
 Vector of features have been obtained by calculating variables
